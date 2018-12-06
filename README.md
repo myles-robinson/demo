@@ -3,7 +3,7 @@
 This is a simple readme file
 
 #Adding more text
-##Mwahahaha
+##and some more text
 
 Adding lots of new stuff
 
